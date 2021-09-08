@@ -1,0 +1,1 @@
+https://www.tecmint.com/set-permanent-dns-nameservers-in-ubuntu-debian/
